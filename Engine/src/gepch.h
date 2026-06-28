@@ -1,0 +1,10 @@
+#pragma once
+#include <Windows.h>
+#include <Windowsx.h>
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
+#include <iostream>
+#include <string>
+#include <print>
+#include <vector>
+#include <array>

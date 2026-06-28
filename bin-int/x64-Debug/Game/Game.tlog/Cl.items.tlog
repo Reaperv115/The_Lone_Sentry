@@ -1,0 +1,11 @@
+C:\Dev\Game_Engine\Game\src\Gameplay\AmmoCache.cpp;C:\Dev\Game_Engine\bin-int\x64-Debug\Game\AmmoCache.obj
+C:\Dev\Game_Engine\Game\src\Gameplay\Enemy.cpp;C:\Dev\Game_Engine\bin-int\x64-Debug\Game\Enemy.obj
+C:\Dev\Game_Engine\Game\src\Gameplay\GameManager.cpp;C:\Dev\Game_Engine\bin-int\x64-Debug\Game\GameManager.obj
+C:\Dev\Game_Engine\Game\src\Gameplay\Loadout.cpp;C:\Dev\Game_Engine\bin-int\x64-Debug\Game\Loadout.obj
+C:\Dev\Game_Engine\Game\src\Gameplay\Score.cpp;C:\Dev\Game_Engine\bin-int\x64-Debug\Game\Score.obj
+C:\Dev\Game_Engine\Game\src\Layers\ImGuiLayer.cpp;C:\Dev\Game_Engine\bin-int\x64-Debug\Game\ImGuiLayer.obj
+C:\Dev\Game_Engine\Game\src\Gameplay\Player.cpp;C:\Dev\Game_Engine\bin-int\x64-Debug\Game\Player.obj
+C:\Dev\Game_Engine\Game\src\Levels\Level.cpp;C:\Dev\Game_Engine\bin-int\x64-Debug\Game\Level.obj
+C:\Dev\Game_Engine\Game\src\Layers\GameLayer.cpp;C:\Dev\Game_Engine\bin-int\x64-Debug\Game\GameLayer.obj
+C:\Dev\Game_Engine\Game\src\Main.cpp;C:\Dev\Game_Engine\bin-int\x64-Debug\Game\Main.obj
+C:\Dev\Game_Engine\Game\src\Gameplay\Weapon.cpp;C:\Dev\Game_Engine\bin-int\x64-Debug\Game\Weapon.obj
